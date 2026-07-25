@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C508%20hrs%207%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -40,7 +42,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 23:11:04 UTC
+ Last Updated on 25/07/2026 23:01:11 UTC
 <!--END_SECTION:waka-->
 
 <!--
